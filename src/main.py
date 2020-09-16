@@ -14,7 +14,9 @@ def show_help():
           'cut <file> [<start>;<finish>] [<start>;<finish>] ...\n'
           '     split file to intervals, which would be saved automatically\n'
           'reverse <file> <output file>\n'
-          '     reverse <file>\n')
+          '     reverse <file>\n'
+          'exit\n'
+          '     exit from app')
 
 
 def merge_audio(files):
