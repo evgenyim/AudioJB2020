@@ -1,9 +1,6 @@
-import os
 from os import listdir
-from os.path import join
 
 from pydub import AudioSegment
-from pydub.playback import play
 
 
 def show_help():
