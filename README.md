@@ -35,4 +35,6 @@
                split file to intervals, which would be saved automatically
           reverse <file> <output file>
                reverse <file>
+          exit
+               exit form app
   ```
